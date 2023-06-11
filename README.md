@@ -1,3 +1,3 @@
 # Sudoku
 
-Simple Sudoku Solver with GUI
+Sudoku Solver with GUI
